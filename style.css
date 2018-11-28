@@ -1,0 +1,11 @@
+p {
+    color: white;
+    font-weight: bolder;
+}
+.form-group{
+    max-width: 160px;
+    margin: 20px;
+}
+body{
+    background-color: lightgrey;
+}
